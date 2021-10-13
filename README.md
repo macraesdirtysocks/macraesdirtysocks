@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @macraesdirtysocks
 - 👀 I’m interested in R, RStudio and fantasy sports
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything fantasy but most interested in data pipelines and apps.
 - 📫 How to reach me wolearygit@gmail.com
 
 <!---
