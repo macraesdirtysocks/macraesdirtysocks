@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macraesdirtysocks
-- notebook_with_decorative_cover My main project right now is YFAR which is a collection of functions for getting fantasy data from the Yahoo! Fantasy api
+- :notebook_with_decorative_cover: My main project right now is YFAR which is a collection of functions for getting fantasy data from the Yahoo! Fantasy api
 -  🌱 I’m currently learning R
 - 👀 I’m interested in fantasy sports
 - 💞️ I’m looking to collaborate on anything fantasy but most interested in data pipelines and apps.
