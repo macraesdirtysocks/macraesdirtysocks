@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @William
+- Currently currently working through [DataTalksClub data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - :notebook_with_decorative_cover: My main project right now is YFAR which is a collection of functions for getting fantasy data from the Yahoo! Fantasy api
 -  🌱 I’m currently learning python, sql and data engineering tools
 - 👀 I’m interested in coffee, cycling, reading, coding, rock climbing, urban planning and transportation.....
