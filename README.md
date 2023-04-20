@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @William
-- Currently a student @ JigsawLabs
--  🌱 I’m currently learning python, sql and data engineering tools.
-- 👀 I’m interested in coffee, cycling, reading, coding, rock climbing, urban planning and transportation.
-- 💞️ I’m looking to learn and collaborate on anything fantasy but most interested in data pipelines and apps.
+- Data Engineer at the City Of New York
+- 👀 I’m interested in coffee, cycling, reading, rock climbing, urban planning and transportation and data (of course).
 - 📫 How to reach me wolearygit@gmail.com
 
 <!---
